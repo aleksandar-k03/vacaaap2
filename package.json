@@ -1,0 +1,15 @@
+{
+  "name": "vacaaap",
+  "version": "1.0.0",
+  "description": "aksdjasd",
+  "main": "index.js",
+  "scripts": {
+    "run": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AK",
+  "license": "ISC",
+  "dependencies": {
+    "whatsapp-web.js": "^1.5.1"
+  }
+}
